@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.exe
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.deps.json
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.dll
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.pdb
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.dll
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.pdb
+C:\ProgramasCSharp\ConceitoDeUsingBlock\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.genruntimeconfig.cache
